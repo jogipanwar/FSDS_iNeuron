@@ -1,2 +1,2 @@
 # FSDS_iNeuron
-Full Stack Data Science Bootcamp Assignments
+Full Stack Data Science Bootcamp by iNeuronIntelligence
