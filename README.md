@@ -6,6 +6,7 @@ Full Stack Data Science Bootcamp by iNeuronIntelligence
 <details><summary>1. Python Basic Assignments </summary>
   <p>
   - [Assignment_1](../tree/main/Python_Basic//Assignment_1.ipynb)
+    
   - [Assignment_2](../tree/main/Python_Basic//Assignment_2.ipynb)
   </p>
 </details>  
